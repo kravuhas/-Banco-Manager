@@ -11,6 +11,9 @@ Sistema de gerenciamento bancário desktop desenvolvido em **Java** com interfac
 - 📜 **Histórico de Transações** com extrato detalhado
 - 📧 **Envio de Email** via Gmail SMTP (sem dependências externas)
 
+<img width="1920" height="1080" alt="{67906073-C040-4651-B380-0D37952C3B0F}" src="https://github.com/user-attachments/assets/b03bbe08-1fff-45e5-ba96-27965650bb5e" />
+
+
 ## 🛠️ Tecnologias
 
 - Java (Swing / AWT)
